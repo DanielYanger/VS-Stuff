@@ -1,0 +1,83 @@
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\bin\Debug\NET Testing.exe.config
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\bin\Debug\NET Testing.exe
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\bin\Debug\NET Testing.pdb
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\obj\Debug\NET Testing.csprojAssemblyReference.cache
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\obj\Debug\NET_Testing.Form1.resources
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\obj\Debug\NET_Testing.Properties.Resources.resources
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\obj\Debug\NET Testing.csproj.GenerateResource.cache
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\obj\Debug\NET Testing.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\obj\Debug\NET Testing.exe
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\obj\Debug\NET Testing.pdb
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\bin\Debug\NET Testing.exe.manifest
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\bin\Debug\NET Testing.application
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\obj\Debug\NET Testing.TrustInfo.xml
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\obj\Debug\NET Testing.exe.manifest
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\obj\Debug\NET Testing.application
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\bin\Debug\IronPython.dll
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\bin\Debug\IronPython.Modules.dll
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\bin\Debug\IronPython.SQLite.dll
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\bin\Debug\IronPython.Wpf.dll
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\bin\Debug\Microsoft.Dynamic.dll
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\bin\Debug\Microsoft.Scripting.dll
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\bin\Debug\IronPython.xml
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\bin\Debug\IronPython.Modules.xml
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\bin\Debug\IronPython.SQLite.xml
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\bin\Debug\IronPython.Wpf.xml
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\bin\Debug\Microsoft.Dynamic.xml
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\bin\Debug\Microsoft.Scripting.xml
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Documents\GitHub\VS Stuff\NET Testing\NET Testing\obj\Debug\NET Testing.csproj.CopyComplete
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\bin\Debug\NET Testing.exe.config
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\bin\Debug\NET Testing.exe.manifest
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\bin\Debug\NET Testing.application
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\bin\Debug\NET Testing.exe
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\bin\Debug\NET Testing.pdb
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\bin\Debug\IronPython.dll
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\bin\Debug\IronPython.Modules.dll
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\bin\Debug\IronPython.SQLite.dll
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\bin\Debug\IronPython.Wpf.dll
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\bin\Debug\Microsoft.Dynamic.dll
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\bin\Debug\Microsoft.Scripting.dll
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\bin\Debug\IronPython.xml
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\bin\Debug\IronPython.Modules.xml
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\bin\Debug\IronPython.SQLite.xml
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\bin\Debug\IronPython.Wpf.xml
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\bin\Debug\Microsoft.Dynamic.xml
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\bin\Debug\Microsoft.Scripting.xml
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\obj\Debug\NET Testing.csprojAssemblyReference.cache
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\obj\Debug\NET_Testing.Form1.resources
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\obj\Debug\NET_Testing.Properties.Resources.resources
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\obj\Debug\NET Testing.csproj.GenerateResource.cache
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\obj\Debug\NET Testing.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\obj\Debug\NET Testing.TrustInfo.xml
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\obj\Debug\NET Testing.exe.manifest
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\obj\Debug\NET Testing.application
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\obj\Debug\NET Testing.csproj.CopyComplete
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\obj\Debug\NET Testing.exe
+D:\Documents\GitHub\VS-Stuff\NET Testing\NET Testing\obj\Debug\NET Testing.pdb
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\bin\Debug\NET Testing.exe.config
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\bin\Debug\NET Testing.exe.manifest
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\bin\Debug\NET Testing.application
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\bin\Debug\NET Testing.exe
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\bin\Debug\NET Testing.pdb
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\bin\Debug\IronPython.xml
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\bin\Debug\IronPython.Modules.xml
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\bin\Debug\IronPython.SQLite.xml
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\bin\Debug\IronPython.Wpf.xml
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\bin\Debug\Microsoft.Dynamic.xml
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\bin\Debug\Microsoft.Scripting.xml
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\obj\Debug\NET Testing.csprojAssemblyReference.cache
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\obj\Debug\NET_Testing.Form1.resources
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\obj\Debug\NET_Testing.Properties.Resources.resources
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\obj\Debug\NET Testing.csproj.GenerateResource.cache
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\obj\Debug\NET Testing.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\obj\Debug\NET Testing.TrustInfo.xml
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\obj\Debug\NET Testing.exe.manifest
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\obj\Debug\NET Testing.application
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\obj\Debug\NET Testing.csproj.CopyComplete
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\obj\Debug\NET Testing.exe
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\obj\Debug\NET Testing.pdb
