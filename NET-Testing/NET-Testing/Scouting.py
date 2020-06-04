@@ -39,4 +39,4 @@ for i in sorted_match_data:
             f.write("Match "+str(match_number)+","+team[3:]+";")
 
 
-print("hello")
+print("success")

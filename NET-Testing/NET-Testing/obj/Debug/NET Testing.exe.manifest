@@ -126,17 +126,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NET Testing.exe" size="15840">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NET Testing.exe" size="16352">
       <assemblyIdentity name="NET Testing" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>YrWOHhztZT6/SkHybZX6S33ifclpVCWG6eQri1/8ask=</dsig:DigestValue>
+        <dsig:DigestValue>gn7z2OqfJJCcl+zq0+JciFAv0axNNimuKgSXD5OiAz4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
+  <file name="merging.py" size="1606">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ZCRPxsvGTWab1gJJb0SU24UqxTrQjY2L2rRBakzZzWM=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="NET Testing.exe.config" size="189">
     <hash>
       <dsig:Transforms>
@@ -146,13 +155,13 @@
       <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Scouting.py" size="1153">
+  <file name="Scouting.py" size="1155">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>EDeOe48kLzhdtlNP2xjJU8/CUI6U0LBAgfpc0mo7Nu4=</dsig:DigestValue>
+      <dsig:DigestValue>N+PK3AB9fV9KQexOrinC7R5Qg8y3+de5qB5tWfwTUGE=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">

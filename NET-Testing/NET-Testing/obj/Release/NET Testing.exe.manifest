@@ -42,98 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IronPython.dll" size="1814528">
-      <assemblyIdentity name="IronPython" version="2.7.10.0" publicKeyToken="7F709C5B713576E1" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>tjWxAR9IJffJ3V0vq3diALQvxwUD9Lq9lytl9uUaM70=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IronPython.Modules.dll" size="744448">
-      <assemblyIdentity name="IronPython.Modules" version="2.7.10.0" publicKeyToken="7F709C5B713576E1" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>eVPVjZSsloRC/g/5YLCoc3dqekmN8S6L53O8RWiR6oY=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IronPython.SQLite.dll" size="636928">
-      <assemblyIdentity name="IronPython.SQLite" version="2.7.10.0" publicKeyToken="7F709C5B713576E1" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>KvdpcdYNff3/BLW1H+PJ/aai8YWD8bQhuND1ZRcdTmE=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IronPython.Wpf.dll" size="5120">
-      <assemblyIdentity name="IronPython.Wpf" version="2.7.10.0" publicKeyToken="7F709C5B713576E1" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pZQklbV6n0SDpSOB1fA3l5QDyB7QwmX/MB+8HIhpeCk=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Dynamic.dll" size="898048">
-      <assemblyIdentity name="Microsoft.Dynamic" version="1.2.3.0" publicKeyToken="7F709C5B713576E1" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>IfPCe8ho6j17vvNoiRS5aZvIZ1xt8uIF5WDwQfVbVeA=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Scripting.dll" size="141312">
-      <assemblyIdentity name="Microsoft.Scripting" version="1.2.3.0" publicKeyToken="7F709C5B713576E1" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>VTYgHipIaEEWkXg7f80FMxCmkKBXIJCokeVJZDBJnSc=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Scripting.Metadata.dll" size="89088">
-      <assemblyIdentity name="Microsoft.Scripting.Metadata" version="1.2.3.0" publicKeyToken="7F709C5B713576E1" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6uGGk1Car5Aa+U01+XEDP5ekQkx5HE+8qptf/ZuPsUM=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NET Testing.exe" size="16352">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="NET Testing.exe" size="15840">
       <assemblyIdentity name="NET Testing" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>gn7z2OqfJJCcl+zq0+JciFAv0axNNimuKgSXD5OiAz4=</dsig:DigestValue>
+        <dsig:DigestValue>WW2QrDEflWlB8foEuIw+T317OQSL++lghDwpIzBsmXA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

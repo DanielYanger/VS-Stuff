@@ -1,0 +1,14 @@
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\bin\Release\NET Testing.exe.config
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\bin\Release\NET Testing.exe.manifest
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\bin\Release\NET Testing.application
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\bin\Release\NET Testing.exe
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\bin\Release\NET Testing.pdb
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\obj\Release\NET_Testing.Form1.resources
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\obj\Release\NET_Testing.Properties.Resources.resources
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\obj\Release\624 Scouting.csproj.GenerateResource.cache
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\obj\Release\624 Scouting.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\obj\Release\NET Testing.TrustInfo.xml
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\obj\Release\NET Testing.exe.manifest
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\obj\Release\NET Testing.application
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\obj\Release\NET Testing.exe
+D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\obj\Release\NET Testing.pdb

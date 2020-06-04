@@ -1,14 +1,5 @@
-﻿using IronPython.Hosting;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
+﻿using System;
 using System.Diagnostics;
-using System.Drawing;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace NET_Testing
@@ -21,7 +12,7 @@ namespace NET_Testing
 
         }
 
-        
+
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -51,8 +42,23 @@ namespace NET_Testing
 
         private void button1_Click(object sender, EventArgs e)
         {
+            psi.FileName = pythonexeFile.Text;
+            var folder_path = devicePath.Text;
+            string arg = string.Format(@"D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\merging.py {0}", folder_path);
+            psi.Arguments = arg;
+            psi.UseShellExecute = false;
+            psi.CreateNoWindow = true;
+            psi.RedirectStandardOutput = true;
+            psi.RedirectStandardError = true;
+            var errors = "";
+            var results = "";
+            using (var process = Process.Start(psi))
+            {
+                errors = process.StandardError.ReadToEnd();
+                results = process.StandardOutput.ReadToEnd();
+            }
+            Console.WriteLine(errors);
 
-            
 
         }
 
@@ -73,19 +79,13 @@ namespace NET_Testing
 
 
 
-        OpenFileDialog ofd = new OpenFileDialog();
+        FolderBrowserDialog ofd = new FolderBrowserDialog();
         private void chooseDevice_Click(object sender, EventArgs e)
         {
-            ofd.Multiselect = true;
             if (ofd.ShowDialog() == DialogResult.OK)
             {
-                foreach(String file in ofd.FileNames)
-                {
-                    //psi.FileName = ofd.FileName;
-                    //pythonexeFile.Text = ofd.FileName;
-                    Console.WriteLine(file);
-                }
-                    
+                devicePath.Text = ofd.SelectedPath;
+
             }
         }
 
@@ -101,10 +101,10 @@ namespace NET_Testing
 
         private void scheduleGeneratorButton_Click(object sender, EventArgs e)
         {
-          
+            psi.FileName = pythonexeFile.Text;
             var api_key = apiKeyTextbox.Text;
             var event_key = eventCode.Text;
-            string arg = string.Format(@"D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\Scouting.py {0} {1}", event_key,api_key);
+            string arg = string.Format(@"D:\Documents\GitHub\VS-Stuff\NET-Testing\NET-Testing\Scouting.py {0} {1}", event_key, api_key);
             psi.Arguments = arg;
             psi.UseShellExecute = false;
             psi.CreateNoWindow = true;
@@ -117,8 +117,7 @@ namespace NET_Testing
                 errors = process.StandardError.ReadToEnd();
                 results = process.StandardOutput.ReadToEnd();
             }
-            devicePath.Text = results;
-            Console.WriteLine(errors); 
+            Console.WriteLine(errors);
         }
 
         private void label1_Click_2(object sender, EventArgs e)
@@ -126,15 +125,19 @@ namespace NET_Testing
 
         }
 
-
+        OpenFileDialog fd = new OpenFileDialog();
         private void button2_Click(object sender, EventArgs e)
         {
-            
+            if (fd.ShowDialog() == DialogResult.OK)
+            {
+                pythonexeFile.Text = fd.FileName;
+
+            }
         }
 
         private void textBox1_TextChanged_1(object sender, EventArgs e)
         {
-            
+
         }
 
         private void helpToolStripMenuItem1_Click(object sender, EventArgs e)

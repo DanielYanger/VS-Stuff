@@ -48,7 +48,7 @@
             this.scheduleGeneratorButton = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.pythonexeFile = new System.Windows.Forms.TextBox();
-            this.button2 = new System.Windows.Forms.Button();
+            this.PythonExe = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -80,7 +80,7 @@
             this.restartApplicationToolStripMenuItem.BackColor = System.Drawing.Color.DimGray;
             this.restartApplicationToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(240)))), ((int)(((byte)(0)))));
             this.restartApplicationToolStripMenuItem.Name = "restartApplicationToolStripMenuItem";
-            this.restartApplicationToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.restartApplicationToolStripMenuItem.Size = new System.Drawing.Size(101, 22);
             this.restartApplicationToolStripMenuItem.Text = "Clear";
             this.restartApplicationToolStripMenuItem.Click += new System.EventHandler(this.restartApplicationToolStripMenuItem_Click);
             // 
@@ -89,7 +89,7 @@
             this.exitToolStripMenuItem.BackColor = System.Drawing.Color.DimGray;
             this.exitToolStripMenuItem.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(240)))), ((int)(((byte)(0)))));
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(101, 22);
             this.exitToolStripMenuItem.Text = "Exit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
@@ -109,7 +109,7 @@
             this.helpToolStripHelp.BackColor = System.Drawing.Color.DimGray;
             this.helpToolStripHelp.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(240)))), ((int)(((byte)(0)))));
             this.helpToolStripHelp.Name = "helpToolStripHelp";
-            this.helpToolStripHelp.Size = new System.Drawing.Size(180, 22);
+            this.helpToolStripHelp.Size = new System.Drawing.Size(107, 22);
             this.helpToolStripHelp.Text = "Help";
             this.helpToolStripHelp.Click += new System.EventHandler(this.helpToolStripMenuItem1_Click);
             // 
@@ -118,7 +118,7 @@
             this.aboutToolStripAbout.BackColor = System.Drawing.Color.DimGray;
             this.aboutToolStripAbout.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(240)))), ((int)(((byte)(0)))));
             this.aboutToolStripAbout.Name = "aboutToolStripAbout";
-            this.aboutToolStripAbout.Size = new System.Drawing.Size(180, 22);
+            this.aboutToolStripAbout.Size = new System.Drawing.Size(107, 22);
             this.aboutToolStripAbout.Text = "About";
             this.aboutToolStripAbout.Click += new System.EventHandler(this.aboutToolStripAbout_Click);
             // 
@@ -257,17 +257,17 @@
             this.pythonexeFile.TabIndex = 15;
             this.pythonexeFile.TextChanged += new System.EventHandler(this.textBox1_TextChanged_1);
             // 
-            // button2
+            // PythonExe
             // 
-            this.button2.BackColor = System.Drawing.Color.Transparent;
-            this.button2.ForeColor = System.Drawing.Color.Black;
-            this.button2.Location = new System.Drawing.Point(47, 113);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(109, 20);
-            this.button2.TabIndex = 14;
-            this.button2.Text = "Choose Python";
-            this.button2.UseVisualStyleBackColor = false;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.PythonExe.BackColor = System.Drawing.Color.Transparent;
+            this.PythonExe.ForeColor = System.Drawing.Color.Black;
+            this.PythonExe.Location = new System.Drawing.Point(47, 113);
+            this.PythonExe.Name = "PythonExe";
+            this.PythonExe.Size = new System.Drawing.Size(109, 20);
+            this.PythonExe.TabIndex = 14;
+            this.PythonExe.Text = "Choose Python";
+            this.PythonExe.UseVisualStyleBackColor = false;
+            this.PythonExe.Click += new System.EventHandler(this.button2_Click);
             // 
             // Form1
             // 
@@ -277,7 +277,7 @@
             this.ClientSize = new System.Drawing.Size(392, 467);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pythonexeFile);
-            this.Controls.Add(this.button2);
+            this.Controls.Add(this.PythonExe);
             this.Controls.Add(this.scheduleGeneratorButton);
             this.Controls.Add(this.apiKeyLabel);
             this.Controls.Add(this.apiKeyTextbox);
@@ -323,7 +323,7 @@
         private System.Windows.Forms.Button scheduleGeneratorButton;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox pythonexeFile;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button PythonExe;
     }
 }
 

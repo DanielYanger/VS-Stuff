@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="NET Testing.exe.manifest" size="10180">
+    <dependentAssembly dependencyType="install" codebase="NET Testing.exe.manifest" size="5361">
       <assemblyIdentity name="NET Testing.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>fvAOatNBeULNkC6UutMTC0go+8xM+a5pNa2Apy2hEvc=</dsig:DigestValue>
+        <dsig:DigestValue>PNfu6GBZFhEHEKuv/WV8lqtL53HRjSixAUVN6pBVpks=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
