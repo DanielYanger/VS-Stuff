@@ -7,3 +7,4 @@ D:\Documents\GitHub\VS-Stuff\624-Scouting\624-Scouting-Installer\624-Scouting-Ap
 D:\Documents\GitHub\VS-Stuff\624-Scouting\624-Scouting-Installer\624-Scouting-Application\obj\Release\624ScoutingApplication.csproj.CoreCompileInputs.cache
 D:\Documents\GitHub\VS-Stuff\624-Scouting\624-Scouting-Installer\624-Scouting-Application\obj\Release\624 Scouting Application.exe
 D:\Documents\GitHub\VS-Stuff\624-Scouting\624-Scouting-Installer\624-Scouting-Application\obj\Release\624 Scouting Application.pdb
+D:\Documents\GitHub\VS-Stuff\624-Scouting\624-Scouting-Installer\624-Scouting-Application\obj\Release\624ScoutingApplication.csprojAssemblyReference.cache

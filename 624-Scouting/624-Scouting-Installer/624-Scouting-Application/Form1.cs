@@ -110,7 +110,7 @@ namespace _624_Scouting_Application
                     errors = process.StandardError.ReadToEnd();
                     results = process.StandardOutput.ReadToEnd();
                 }
-                if (results == "200")
+                if (errors=="")
                 {
                     MessageBox.Show("The program successfully executed");
                 }
