@@ -52,7 +52,7 @@ namespace _624_Scouting_Application
 
         private void PythonExeText_TextChanged(object sender, EventArgs e)
         {
-
+           
         }
 
         private void importButton_Click(object sender, EventArgs e)
@@ -77,7 +77,7 @@ namespace _624_Scouting_Application
                 Console.WriteLine(errors);
                 if (errors == "")
                 {
-                    MessageBox.Show("The program successfully executed.");
+                    MessageBox.Show("The program successfully executed. The CSV should be on your desktop.");
                 }
                 else
                 {
@@ -112,7 +112,7 @@ namespace _624_Scouting_Application
                 }
                 if (errors=="")
                 {
-                    MessageBox.Show("The program successfully executed");
+                    MessageBox.Show("The program successfully executed. The schedule can be found on your desktop.");
                 }
                 else
                 {
@@ -124,6 +124,11 @@ namespace _624_Scouting_Application
             {
                 MessageBox.Show("Error: Something went wrong. Please ensure everything is correct and try again.");
             }
+        }
+
+        private void PythonEngineLabel_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -52,11 +52,12 @@
             this.PythonEngineLabel.BackColor = System.Drawing.Color.Transparent;
             this.PythonEngineLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.PythonEngineLabel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(240)))), ((int)(((byte)(0)))));
-            this.PythonEngineLabel.Location = new System.Drawing.Point(29, 143);
+            this.PythonEngineLabel.Location = new System.Drawing.Point(17, 143);
             this.PythonEngineLabel.Name = "PythonEngineLabel";
             this.PythonEngineLabel.Size = new System.Drawing.Size(161, 20);
             this.PythonEngineLabel.TabIndex = 31;
             this.PythonEngineLabel.Text = "Select Python Engine";
+            this.PythonEngineLabel.Click += new System.EventHandler(this.PythonEngineLabel_Click);
             // 
             // PythonExeText
             // 
@@ -132,7 +133,7 @@
             this.sechduleLabel.AutoSize = true;
             this.sechduleLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.sechduleLabel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(240)))), ((int)(((byte)(0)))));
-            this.sechduleLabel.Location = new System.Drawing.Point(29, 315);
+            this.sechduleLabel.Location = new System.Drawing.Point(17, 315);
             this.sechduleLabel.Name = "sechduleLabel";
             this.sechduleLabel.Size = new System.Drawing.Size(153, 20);
             this.sechduleLabel.TabIndex = 23;
@@ -143,7 +144,7 @@
             this.ImportMatchDataLabel.AutoSize = true;
             this.ImportMatchDataLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ImportMatchDataLabel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(6)))), ((int)(((byte)(240)))), ((int)(((byte)(0)))));
-            this.ImportMatchDataLabel.Location = new System.Drawing.Point(29, 223);
+            this.ImportMatchDataLabel.Location = new System.Drawing.Point(17, 223);
             this.ImportMatchDataLabel.Name = "ImportMatchDataLabel";
             this.ImportMatchDataLabel.Size = new System.Drawing.Size(142, 20);
             this.ImportMatchDataLabel.TabIndex = 22;
@@ -184,9 +185,10 @@
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.pictureBox1.Location = new System.Drawing.Point(13, 12);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(265, 105);
+            this.pictureBox1.Size = new System.Drawing.Size(249, 105);
             this.pictureBox1.TabIndex = 32;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.WaitOnLoad = true;
             // 
             // Form1
             // 
@@ -209,8 +211,11 @@
             this.Controls.Add(this.importButton);
             this.Controls.Add(this.devicePath);
             this.Controls.Add(this.ChooseDeviceButton);
+            this.Cursor = System.Windows.Forms.Cursors.Default;
             this.DoubleBuffered = true;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximumSize = new System.Drawing.Size(500, 519);
+            this.MinimumSize = new System.Drawing.Size(500, 519);
             this.Name = "Form1";
             this.Text = "624 Scouting Manager";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
