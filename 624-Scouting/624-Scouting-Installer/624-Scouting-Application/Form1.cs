@@ -1,13 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+
 using System.Diagnostics;
+using System.Windows.Forms;
 
 
 namespace _624_Scouting_Application
@@ -39,11 +33,11 @@ namespace _624_Scouting_Application
 
         //Choose Device Butoon
         private void ChooseDeviceButton_Click(object sender, EventArgs e)
-        {          
-                if (ofd.ShowDialog() == DialogResult.OK)
-                {
-                    devicePath.Text = ofd.SelectedPath;
-                }             
+        {
+            if (ofd.ShowDialog() == DialogResult.OK)
+            {
+                devicePath.Text = ofd.SelectedPath;
+            }
         }
 
         private void eventCodeLabel_Click(object sender, EventArgs e)
@@ -87,7 +81,7 @@ namespace _624_Scouting_Application
                 }
                 else
                 {
-                    MessageBox.Show("The program did not execute successfully. \n"+errors);
+                    MessageBox.Show("The program did not execute successfully. Please ensure the proper folder is selected.");
                 }
             }
             catch (Exception ex)
@@ -116,15 +110,15 @@ namespace _624_Scouting_Application
                     errors = process.StandardError.ReadToEnd();
                     results = process.StandardOutput.ReadToEnd();
                 }
-                if (errors == "")
-                { 
-                    MessageBox.Show("The program successfully executed with status code: "+results); 
+                if (results == "200")
+                {
+                    MessageBox.Show("The program successfully executed");
                 }
                 else
                 {
                     MessageBox.Show("The program did not execute successfully. Double check your API key and event code.");
                 }
-                
+
             }
             catch (Exception ex)
             {
